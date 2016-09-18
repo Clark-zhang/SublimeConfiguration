@@ -1,0 +1,14 @@
+{
+"draw_white_space": "all",
+"fallback_encoding": "UTF-8",
+"font_size": 11.0,
+"highlight_line": true,
+"tab_size": 4,
+"translate_tabs_to_spaces": true,
+"trim_automatic_white_space": true,
+"trim_trailing_white_space_on_save": true,
+"word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?",
+"word_wrap": true,
+"fade_fold_buttons": false,
+"bold_folder_labels": true,
+}
